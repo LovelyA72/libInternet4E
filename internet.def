@@ -1,0 +1,7 @@
+; internet.def : Declares the module parameters for the DLL.
+
+LIBRARY      "internet"
+DESCRIPTION  'internet Library'
+
+EXPORTS
+GetNewInf
